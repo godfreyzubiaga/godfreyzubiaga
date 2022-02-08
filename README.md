@@ -12,9 +12,12 @@
 
 <p><img align="right" src="https://res.cloudinary.com/freymwork/image/upload/v1641515147/animation_500_kxa883sd_nsa470.gif" alt="godfreyzubiaga" /></p>
 
-- 🌱 Improving my skills everyday
-
+- 👨🏽‍💻 I’m currently working working as a Sofware Developer @ Amdocs
+- 🌱 I’m currently learning Recoil JS & PWA React.
+- 💬 You may ask me anything related to web development and I may or may not have an answer
+- 🎿 Hobbies other than coding : Playing Chess/Dota 2/CS:GO, Watching Twitch/Youtube, Building the future.
 - 📫 How to reach me **godfreyzubiaga@gmail.com**
+- Download/View my [Resume](https://drive.google.com/file/d/1f9WUO54YGLVeVlWxuYT9kKH5puu3xgu4/view?usp=sharing)
 
 <br>
 
